@@ -1,0 +1,57 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.firstDiv{
+    background:  linear-gradient(to right, #0071f3, #73b4ff);
+    height: 60px;
+    width: 100%;
+    position: fixed;
+}
+.newDivOne{
+    width: 250px;
+    height: 100%;
+    margin-top: 60px;
+}
+.firstDivChildOne{
+    background: linear-gradient(45deg, #4d4cac, #5a59ab);
+    width: 250px;
+    height: 180px;
+}
+.firstDivChildTwo{
+    box-shadow: 0 0 5px black;
+    height: 360px;
+    padding-top: 20px;
+}
+.firstDivChildTwo li{
+    list-style-type: none;
+}
+.listItemTwo{
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.newDivTwo{
+    width: 330px;
+    height: 120px;
+    background: linear-gradient(45deg, #9698d6, #a9abdb);
+    border-radius: 20px;
+    margin-left: 10px;      
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.newDivOneTwo{
+    width: 350px;
+    height: 400px;
+    box-shadow: 0 0 2px black;
+    margin-left: 30px;
+    margin-top: 130px;
+    border-radius: 20px;
+}
+.newDivThree{
+    background-color: #ec848d;
+    width: 500px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 130px;
+    margin-left: 50px;
+}
